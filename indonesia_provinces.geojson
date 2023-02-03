@@ -12954,7 +12954,7 @@
       "properties": {
         "cartodb_id": 5,
         "country": "Indonesia",
-        "province_code": 91,
+        "province_code": 92,
         "slug": "indonesia-papuabarat",
         "state": "Papua Barat"
       }
@@ -42983,7 +42983,7 @@
       "properties": {
         "cartodb_id": 1,
         "country": "Indonesia",
-        "province_code": 94,
+        "province_code": 91,
         "slug": "indonesia-papua",
         "state": "Papua"
       }
