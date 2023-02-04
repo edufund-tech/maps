@@ -1,7 +1,7 @@
 ## **GeoJSON of Indonesia**
 
 ### **About**
-This repo contains geojson of Indonesia's cities and provinces.
+This repo contains geojson of Indonesia's cities and provinces, customed for EduFund.
 
 ### **Reference**
 
