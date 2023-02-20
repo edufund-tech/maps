@@ -7,6 +7,7 @@ This repo contains geojson of Indonesia's cities and provinces, customed for Edu
 
 The data source is from these repo with some adjustment in cities and provinces code:
 <ul>
+<li>Sub District : https://github.com/pararawendy/border-desa-indonesia-geojson</li>
 <li>Cities : https://github.com/okzapradhana/indonesia-city-geojson</li>
 <li>Province : https://github.com/superpikar/indonesia-geojson</li>
 </ul>
